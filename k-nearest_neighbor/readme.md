@@ -36,7 +36,10 @@ K值可以很容易的直接決定分類的結果，大致上來說K越小越容
 #### 距離怎麼算?
 
 常見方法是用歐幾里得距離，即($\Delta$x,$\Delta$y)相減開根號  
-$d(x,y)= \sqrt{(x_1,y_1)^2-(x_2,y_2)^2}$
+
+$d(x,y)= \sqrt{(x_1,y_1)^2-(x_2,y_2)^2}$  
+
+![](https://imgur.com/RVwuhe9.png)
 
 #### 為甚麼不KNN?
 ![](https://imgur.com/IzQWwDf.png)  
