@@ -2,12 +2,12 @@
 
 
 ## **Reference**
-https://www.youtube.com/watch?v=8xABazRelfI
-https://ithelp.ithome.com.tw/articles/10224036
-https://www.youtube.com/watch?v=8xABazRelfI&t=309s
-https://www.youtube.com/watch?v=SaxJrekR2M8
-https://www.youtube.com/watch?v=HVXime0nQeI
-https://www.youtube.com/watch?v=UqYde-LULfs
+https://www.youtube.com/watch?v=8xABazRelfI  
+https://ithelp.ithome.com.tw/articles/10224036  
+https://www.youtube.com/watch?v=8xABazRelfI&t=309s  
+https://www.youtube.com/watch?v=SaxJrekR2M8  
+https://www.youtube.com/watch?v=HVXime0nQeI  
+https://www.youtube.com/watch?v=UqYde-LULfs  
 
 recommend video:  
 [Youtube KNN Algorithm 0:00~11:26](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
