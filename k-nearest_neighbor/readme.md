@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=UqYde-LULfs
 
 recommend video:  
 [Youtube KNN Algorithm 0:00~11:26](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
-[Python Practice]()
+
 
 ## **KNN**
 -------
@@ -52,6 +52,8 @@ $d(x,y)= \sqrt{(x_1,y_1)^2-(x_2,y_2)^2}$
 
 ## **Code Practice**
 -------
+[Python Practice](http://xperimentallearning.blogspot.com/2017/04/scikit-learn-sklearn-library-machine.html)  
+[Datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)  
 
 
 
